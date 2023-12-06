@@ -11,6 +11,6 @@ Welcome to the Data Analysis 2 repository. This repository hosts assignments:
 
 - **Assignment 2:**
   - Code: [Code](https://github.com/Alejandra-savagebriz/DA2/blob/main/Assignment2_DA2.ipynb)
-  - Report:
+  - Report: [Report](https://github.com/Alejandra-savagebriz/DA2/blob/main/Assignment%202%20DA2.pdf)
 
   **Note**: Assignment 2 was done in a pair of Alejandra Savage and Nicolas Fernandez
