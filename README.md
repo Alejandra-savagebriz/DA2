@@ -8,3 +8,9 @@ Welcome to the Data Analysis 2 repository. This repository hosts assignments:
   - Report: [Report](https://github.com/Alejandra-savagebriz/DA2/blob/main/Assignment%201%20Alejandra%20Savage.pdf)
  
   Note: At the beggining of the code I imported the py_helper_functions code in order for the code to work correctly.
+
+- **Assignment 2:**
+  - Code:
+  - Report:
+
+  Note: Assignment 2 was done in a pair of Alejandra Savage and Nicolas Fernandez
