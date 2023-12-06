@@ -10,7 +10,7 @@ Welcome to the Data Analysis 2 repository. This repository hosts assignments:
   Note: At the beggining of the code I imported the py_helper_functions code in order for the code to work correctly.
 
 - **Assignment 2:**
-  - Code:
+  - Code: [Code](https://github.com/Alejandra-savagebriz/DA2/blob/main/Assignment2_DA2.ipynb)
   - Report:
 
-  Note: Assignment 2 was done in a pair of Alejandra Savage and Nicolas Fernandez
+  **Note**: Assignment 2 was done in a pair of Alejandra Savage and Nicolas Fernandez
